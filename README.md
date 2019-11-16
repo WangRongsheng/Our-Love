@@ -8,6 +8,6 @@
 
 [甜鸡汤](https://tian.sqdxwz.com)
 
-# 图片演示
+# 效果
 
 <img src="https://s2.ax1x.com/2019/11/13/MYkrVS.png" alt="MYkrVS.png" border="0" />
